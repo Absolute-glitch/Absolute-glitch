@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Backend Engineering.**
 
-- 📫 How to reach me **kelvinmusiimenta@gmail.com**
+- 📫 How to reach me **available**
 
 - ⚡ Fun fact **I am funny.**
 
