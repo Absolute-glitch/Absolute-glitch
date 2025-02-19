@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm I am Kaylveen.</h1>
+<h1 align="center">Hey there 👋, I'm I am Kay.</h1>
 <h3 align="center">Exploring AI, security, and all things automation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=absolute-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="absolute-glitch" /> </p>
@@ -13,15 +13,15 @@
 
 - 🤝 I’m looking for help with **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [incoming...](incoming...)
+- 👨‍💻 All of my projects are available at 
 
-- 📝 I regularly write articles on [incoming..](incoming..)
+- 📝 I regularly write articles on 
 
 - 💬 Ask me about **Backend Engineering.**
 
 - 📫 How to reach me **available**
 
-- ⚡ Fun fact **I am funny.**
+- ⚡ Fun fact **I am funny.**🧢
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
