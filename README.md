@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm I am Kelvin.</h1>
+<h1 align="center">Hey there 👋, I'm I am Kk.</h1>
 <h3 align="center">Exploring AI, Auditing, and all things automation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=absolute-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="absolute-glitch" /> </p>
