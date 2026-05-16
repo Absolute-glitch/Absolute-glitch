@@ -5,19 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=absolute-glitch" alt="absolute-glitch" /></a> </p>
 
-- 🔭 I’m currently working on [Network Monitoring Tool](https://github.com/Absolute-glitch/NetoSYS)
-
-- 🌱 I’m currently learning **UIPath,Machine learning**
+- 🌱 I’m currently learning  Bash
 
 - 👯 I’m looking to collaborate on **Python and C++/C# projects**
 
-- 🤝 I’m looking for help with **Machine Learning**
+- 🤝 I’m looking for help with **Cloud Environments**
 
 - 👨‍💻 All of my projects are available at 
 
 - 📝 I regularly write articles on 
 
-- 💬 Ask me about **Automation.**
+- 💬 Ask me about **AWS**
 
 - 📫 How to reach me **available**
 
